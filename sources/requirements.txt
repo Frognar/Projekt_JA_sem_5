@@ -1,0 +1,4 @@
+ctypes
+multiprocessing
+PIL
+tkinter
